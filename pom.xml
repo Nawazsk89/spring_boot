@@ -31,11 +31,11 @@
 
     <properties>
         <java.version>1.8</java.version>
+        <sonar.organization>nawazsk89</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
-    <properties>
-  <sonar.organization>nawazsk89</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+
+
 
     <build>
         <plugins>
